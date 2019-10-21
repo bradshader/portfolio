@@ -8,7 +8,7 @@ export default () =>
     <Layout>
         <div className = "container">
             <div className="about right-col">
-                <h2 style={{border:"none"}}>Hey y'all!</h2>
+                <h2 style={{border:"none"}}>Hello!</h2>
                 <p>My name is Brad Shader and I'm a creative web developer and graphic designer based in Louisville, KY. Throughout my eight years of experience, I have worked with many businesses, creating compelling designs and bringing websites to life with dynamic code. </p>
             </div>
 
